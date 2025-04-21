@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from cmk.agent_based.v2 import (
     AgentCheckPlugin,
     CheckPlugin,
